@@ -1,13 +1,12 @@
 package practice_abstract;
 
-public interface Creature {
+public interface Hero {
 
 	void run();
 
 	void eat();
 
-	void bite();
+	void cry();
 
-	void scratch();
-
+	void think();
 }
